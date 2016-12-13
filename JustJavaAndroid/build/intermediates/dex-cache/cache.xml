@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\ProjetoTJ2\JustJavaAndroid\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="722ff8d0feb8ae93f5782afbcb8885301145a584">
+        <dex dex="C:\ProjetoTJ2\JustJavaAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_b66a6f00a94f87427c4e2e4b65782baa1f6a0515\classes.dex" />
+    </item>
+    <item
+        jar="C:\ProjetoTJ2\JustJavaAndroid\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\ProjetoTJ2\JustJavaAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_3994afc17a741548d803487009cbe2058c059465\classes.dex" />
+    </item>
+    <item
+        jar="C:\ProjetoTJ2\JustJavaAndroid\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="a61005619e43f203768ff3f224137def6f029e50">
+        <dex dex="C:\ProjetoTJ2\JustJavaAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-10.0.0_374bff8b6371567a3f53e966fe7cbd9a043a1a1e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Android\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\ProjetoTJ2\JustJavaAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_565bdac902bac0319f252498e8ec23bdf19b09a3\classes.dex" />
+    </item>
+    <item
+        jar="C:\ProjetoTJ2\JustJavaAndroid\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\ProjetoTJ2\JustJavaAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_af07d472e05cad450852ec040c2085435d6c4493\classes.dex" />
+    </item>
+    <item
+        jar="C:\ProjetoTJ2\JustJavaAndroid\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="75dbc3537bc912d077b3db2f5ac72d5b43644b2c">
+        <dex dex="C:\ProjetoTJ2\JustJavaAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-10.0.0_bfaf57dc98a1fd31f52a23051455dbb343d639a7\classes.dex" />
+    </item>
+    <item
+        jar="C:\ProjetoTJ2\JustJavaAndroid\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="C:\ProjetoTJ2\JustJavaAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.1_88ee955e88845a703f811456c62f4e2e6143784c\classes.dex" />
+    </item>
+    <item
+        jar="C:\ProjetoTJ2\JustJavaAndroid\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\ProjetoTJ2\JustJavaAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_5389405e00f356369b18dabeb2f2bfe1fd9f45cf\classes.dex" />
+    </item>
+    <item
+        jar="C:\ProjetoTJ2\JustJavaAndroid\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\ProjetoTJ2\JustJavaAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_d4acc91ef5ed96debe079a00bc5700b20ccac36f\classes.dex" />
+    </item>
+    <item
+        jar="C:\ProjetoTJ2\JustJavaAndroid\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="3a05b3852a6aec21ea0a6ea4d284ee69c04c55c4">
+        <dex dex="C:\ProjetoTJ2\JustJavaAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-10.0.0_80e6a4b37cd81bd06f85fef23dfc86181265b433\classes.dex" />
+    </item>
+    <item
+        jar="C:\ProjetoTJ2\JustJavaAndroid\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="41e39c7ee84e63ae18df6c6ccb96d196996add4c">
+        <dex dex="C:\ProjetoTJ2\JustJavaAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-10.0.0_117826622a160a0740a069c4db9add1c88a3a95a\classes.dex" />
+    </item>
+    <item
+        jar="C:\ProjetoTJ2\JustJavaAndroid\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\ProjetoTJ2\JustJavaAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_0040fe84d277b3c0793234855825436e4e16554c\classes.dex" />
+    </item>
+    <item
+        jar="C:\ProjetoTJ2\JustJavaAndroid\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\ProjetoTJ2\JustJavaAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_1ceb0fa72aa9acfe8ec7cfd009f397ddf87221ae\classes.dex" />
+    </item>
+    <item
+        jar="C:\ProjetoTJ2\JustJavaAndroid\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\ProjetoTJ2\JustJavaAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_34bf649aa8d0a58cfdb8612c763487f7e8a00ad9\classes.dex" />
+    </item>
+    <item
+        jar="C:\ProjetoTJ2\JustJavaAndroid\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="C:\ProjetoTJ2\JustJavaAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.1_4fe517256d3aba2055ab340251844a277de15f75\classes.dex" />
+    </item>
+    <item
+        jar="C:\ProjetoTJ2\JustJavaAndroid\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\ProjetoTJ2\JustJavaAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_a9a99b79c0f14e4b84189b5e5ecdbec948a354e9\classes.dex" />
+    </item>
+    <item
+        jar="C:\ProjetoTJ2\JustJavaAndroid\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="2b410ae1fda134f470276365f4b7f846269e0d23">
+        <dex dex="C:\ProjetoTJ2\JustJavaAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-10.0.0_b1f51edf9ced09139e803c1756bd09ea70f1c29f\classes.dex" />
+    </item>
+    <item
+        jar="C:\ProjetoTJ2\JustJavaAndroid\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="ce6e6e59212db0893fc36e5b579cf319a84aade8">
+        <dex dex="C:\ProjetoTJ2\JustJavaAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-10.0.0_3e058ad3fd53032bded0e42b4396b3e33b381009\classes.dex" />
+    </item>
+    <item
+        jar="C:\ProjetoTJ2\JustJavaAndroid\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\ProjetoTJ2\JustJavaAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_8933816028e08ab62cf9c4f8e66bb3450b769880\classes.dex" />
+    </item>
+    <item
+        jar="C:\ProjetoTJ2\JustJavaAndroid\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\ProjetoTJ2\JustJavaAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_027ba9fc798dd5864e12efef2d5906b7cf8f6c32\classes.dex" />
+    </item>
+    <item
+        jar="C:\ProjetoTJ2\JustJavaAndroid\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="04bc9ebdfa0db9e527252ec992b6c20ba05dd79d">
+        <dex dex="C:\ProjetoTJ2\JustJavaAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_4e2113c4993c6ef1ccfa4eed49949a1ca8f89ad9\classes.dex" />
+    </item>
+    <item
+        jar="C:\ProjetoTJ2\JustJavaAndroid\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c7ed3fd9d5a9687980dac6c504abd91ad3dfa238">
+        <dex dex="C:\ProjetoTJ2\JustJavaAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-10.0.0_9e888e4b8e20918ae8b7e379968b83b2aea12d1d\classes.dex" />
+    </item>
+    <item
+        jar="C:\ProjetoTJ2\JustJavaAndroid\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\ProjetoTJ2\JustJavaAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_ad74f774dcb99f14ce52cd0ea567f49a5e05f5db\classes.dex" />
+    </item>
+    <item
+        jar="C:\ProjetoTJ2\JustJavaAndroid\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\ProjetoTJ2\JustJavaAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_2a2a719e6eed123089f72e502dc43714365433c1\classes.dex" />
+    </item>
+    <item
+        jar="C:\ProjetoTJ2\JustJavaAndroid\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="985be85104f6d0c5c5e51e7b7e60d8883a98ac64">
+        <dex dex="C:\ProjetoTJ2\JustJavaAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-10.0.0_73f0e8128e88c23e68b581fa5f3fa2204112f926\classes.dex" />
+    </item>
+    <item
+        jar="C:\ProjetoTJ2\JustJavaAndroid\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\ProjetoTJ2\JustJavaAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_01751c86b83c76ca82a94462a3f2111f375b8b31\classes.dex" />
+    </item>
+    <item
+        jar="C:\ProjetoTJ2\JustJavaAndroid\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\ProjetoTJ2\JustJavaAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_9358cdca2211e900460874f7f9b7057c5e7da599\classes.dex" />
+    </item>
+
+</items>
